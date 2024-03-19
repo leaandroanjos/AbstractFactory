@@ -1,6 +1,6 @@
 package br.com.leandro.abstractFactory;
 
-public class TesteFactory {
+public class Main {
 
     private static Carro montarCarro(String tipo){
         CarroFactory cf = null;
